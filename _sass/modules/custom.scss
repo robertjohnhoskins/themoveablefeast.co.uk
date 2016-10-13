@@ -1,0 +1,43 @@
+.site{
+  &__header{
+    padding: 3em 0 0 0;
+  }
+  &__navigation{
+    padding: 1em 0 1em 0;
+  }
+  &__main{
+    padding: 1em 0 1em 0;
+  }
+  &__footer{
+    padding: 1em 0 1em 0;
+  }
+}
+
+.img--banner{
+  width: 100%;
+  height: auto;
+  margin-bottom: 2em;
+}
+
+.site__logo {
+  width: 100%;
+  height: auto;
+}
+
+.site__section{
+  padding-top: 2em;
+  padding-bottom: 2em;
+  &--activity{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    &__text{
+      padding-top: 2em;
+    }
+  }
+  &--red {
+    background: $color-red;
+    h1,h2,h3,h4,h5,h6, a, p {
+      color: white;
+    }
+  }
+}
