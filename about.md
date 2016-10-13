@@ -26,3 +26,21 @@ We believe that Workshop is an arts practice in its own right – a 21st century
 - Creative retreats
 - Interactive conferences
 - Instant museums, processions and palaces of possibilities
+
+<hr>
+
+## Our work - part 1
+
+<div class="flex-video">
+<iframe src="https://player.vimeo.com/video/22549958" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/22549958">Moveable Feast - Our Work: Part 1</a> from <a href="https://vimeo.com/themoveablefeast">The Moveable Feast</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+
+<hr>
+
+## Our work - part 2
+
+<div class="flex-video">
+<iframe src="https://player.vimeo.com/video/5156271" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/5156271">Moveable Feast - Our Work: Part 2</a> from <a href="https://vimeo.com/raprojects">RA Projects</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>

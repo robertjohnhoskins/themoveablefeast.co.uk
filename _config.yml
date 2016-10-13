@@ -19,11 +19,12 @@ telephone: +44 (0)1626 325 830
 mobile: +44 (0)7950 998 911
 description: > # this means to ignore newlines until "baseurl:"
   The Moveable Feast Workshop Company is a multi-disciplinary team of artists who explore individual and collective stories by blending art forms to serve a specific context.
-smalltext: The Moveable Feast workshop Company, Seale Hayne, Newton Abbot, Devon TQ12 6NQ | call 01626 325830 or info@themoveablefeast.co.uk
+smalltext: The Moveable Feast workshop Company, Seale Hayne, Newton Abbot, Devon TQ12 6NQ
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.themoveablefeast.co.uk/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 facebook: https://www.facebook.com/The-Moveable-Feast-Workshop-Company-195435597165541/
+vimeo: https://vimeo.com/themoveablefeast
 github_username:  jekyll
 
 # Build settings
